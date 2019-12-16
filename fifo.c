@@ -30,7 +30,7 @@ int pos_upis = 0;
 int pos_citanja=0;
 int br_clanova=0;
 int endRead = 0;
-int i=0;
+int i = 0;
 char hord[4];
 int h=1;
 char hex[]="hex";
